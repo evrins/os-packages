@@ -1,15 +1,3 @@
 ---
 common:
-  - chrony
-  - lsof
-  - net-tools
-  - netcat
-  - vim
-  - wget
-  - rsync
-  - snmpd
-  - openssh-server
-  - mysql-server
-  - rabbitmq-server
   - keepalived
-  - supervisor

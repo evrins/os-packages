@@ -1,19 +1,4 @@
 ---
 common:
-  - anacron
-  - chrony
-  - keepalived
-  - lsof
-  - less
-  - mysql-server
-  - net-tools
-  - netcat
-  - openssh-server
-  - rabbitmq-server
-  - rsync
+  - snmp
   - snmpd
-  - socat
-  - supervisor
-  - vim
-  - unzip
-  - wget

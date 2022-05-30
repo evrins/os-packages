@@ -2,19 +2,16 @@
 common:
   - anacron
   - chrony
-  - keepalived
+  - curl
   - lsof
   - less
-  - mysql-server
   - net-tools
   - netcat
   - netplan.io
   - openssh-server
-  - rabbitmq-server
   - rsync
   - snmpd
   - socat
-  - supervisor
   - vim
   - ufw
   - unzip

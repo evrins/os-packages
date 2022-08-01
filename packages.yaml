@@ -15,6 +15,7 @@ common:
   - rsync
   - snmpd
   - socat
+  - sqlite3
   - supervisor
   - vim
   - ufw

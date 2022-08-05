@@ -21,3 +21,4 @@ common:
   - ufw
   - unzip
   - wget
+  - sqlite3
